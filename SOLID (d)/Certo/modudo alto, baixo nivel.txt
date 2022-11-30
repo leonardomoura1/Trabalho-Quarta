@@ -1,0 +1,3 @@
+O modulo de alto nivel e a interface.py que so podera ser usado o que foi implementado nela, sao as partes de facil entendimento.
+
+O modulo de baixo nivel sao os banco (bb_repositorio.py e o itau_repositorio.py) que e a parte mais complexas de se entender.
